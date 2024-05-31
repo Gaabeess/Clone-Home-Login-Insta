@@ -230,6 +230,7 @@ footer #footer-links {
     #main-container,
     #form-box {
         margin-top: 0;
+        margin-left: 5px;
     }
 
     #form-container,
